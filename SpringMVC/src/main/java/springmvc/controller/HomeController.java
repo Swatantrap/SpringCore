@@ -10,5 +10,4 @@ public class HomeController {
 		System.out.println("This id home urls");
 		return "index";
 	}
-
 }
